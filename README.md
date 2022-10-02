@@ -1,12 +1,14 @@
 # Web1Lab1
 untuk tugas pemrograman web
 ## belajar tag dasar html
-
+pada tag ini untuk membuat dasar tag <p>
+perhatikan  tag dasar di atas yang belajar html, itu adalah yg di sebut tag dasar
+![gambar 8](screenshoot/gambar%208.png)
 ### membuat paragraf
 kode tag untuk paragraf adalah<p>
 ini adalah tampilannya
-![gambar 1](screenshoot/gambar1.png)
-![gambar 3](screenshoot/gambar2.png)
+![gambar 1](screenshoot/gambar%201.png)
+![gambar 3](screenshoot/gambar%203.png.png)
 
 #### Penambahan judul
 ini adalah tag untuk penambahan judul<p>
